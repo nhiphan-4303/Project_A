@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://us.sulwhasoo.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://us.sulwhasoo.com/collections/travel-minis.atom"/>
+  <title>Sulwhasoo</title>
+  <updated>2024-09-01T05:53:24-04:00</updated>
+  <author>
+    <name>Sulwhasoo</name>
+  </author>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/8022385983533</id>
+    <published>2024-09-01T05:53:24-04:00</published>
+    <updated>2024-09-01T05:53:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/concentrated-ginseng-renewing-cream-set-2024"/>
+    <title>Concentrated Ginseng Renewing Cream Set</title>
+    <s:type>Set</s:type>
+    <s:vendor>Sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/04-2_CGRCream_CONCENTRATEDGINSENGRENEWINGCREAMSET_C_Brand.com_1080px1_1ratio.jpg?v=1724352768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sulwhasoo<br>
+        <strong>Type: </strong>Set<br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A limited edition set showcasing the synergy between the iconic First Care Activating Serum VI and the bestselling Concentrated Ginseng Renewing collection - featuring a full-size Cream.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge::limited</s:tag>
+    <s:tag>badge::new</s:tag>
+    <s:tag>collection::concentrated_ginseng</s:tag>
+    <s:tag>collection::first_care</s:tag>
+    <s:tag>concentrated ginseng</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>limit::5</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>YGroup_CGRCSet</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/8022385983533</id>
+      <title>Default Title</title>
+      <s:price currency="USD">260.00</s:price>
+      <s:sku>270320728</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/8022384214061</id>
+    <published>2024-09-01T05:49:51-04:00</published>
+    <updated>2024-09-01T05:49:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/cult-classics-set"/>
+    <title>Cult Classics Set</title>
+    <s:type>Set</s:type>
+    <s:vendor>Sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/01-3.CultClassics_CULTCLASSICSSET_A_Brand.com_1080px1_1ratio.jpg?v=1724352137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sulwhasoo<br>
+        <strong>Type: </strong>Set<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>A radiance-boosting limited holiday set featuring Sulwhasoo's bestsellers -  First Care Activating Serum VI  and Concentrated Ginseng Renewing Cream.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge::limited</s:tag>
+    <s:tag>badge::new</s:tag>
+    <s:tag>collection::concentrated_ginseng</s:tag>
+    <s:tag>collection::first_care</s:tag>
+    <s:tag>concentrated ginseng</s:tag>
+    <s:tag>first care</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>limit::5</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>YGroup_CultClassics</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/8022384214061</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku>270320725</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7928403656749</id>
+    <published>2024-07-18T19:21:56-04:00</published>
+    <updated>2024-07-18T19:21:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/the-ultimate-s-enriched-water-emulsion-set"/>
+    <title>The Ultimate S Enriched Water &amp; Emulsion Set</title>
+    <s:type>Set</s:type>
+    <s:vendor>Sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/JulyLTESets_Thumbnail_TUSDuoSet_1080x1080_4.jpg?v=1716919985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sulwhasoo<br>
+        <strong>Type: </strong>Set<br>
+        <strong>Price: </strong>
+            290.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Featuring full sizes of both the new Ultimate S Enriched Water and new Ultimate S Enriched Emulsion, we invite you to experience the complete Ultimate S collection for the first time with this limited edition set.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge::limited</s:tag>
+    <s:tag>badge::new</s:tag>
+    <s:tag>benefit::anti-aging</s:tag>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>fine lines &amp; wrinkles</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>limit::5</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>signs of aging</s:tag>
+    <s:tag>skin_benefit:: Hydrating</s:tag>
+    <s:tag>skin_benefit:: Nourishing</s:tag>
+    <s:tag>skin_type::All types</s:tag>
+    <s:tag>ults</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7928403656749</id>
+      <title>Default Title</title>
+      <s:price currency="USD">290.00</s:price>
+      <s:sku>270320697</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7928410472493</id>
+    <published>2024-07-01T00:48:35-04:00</published>
+    <updated>2024-07-01T00:48:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/the-ultimate-s-serum-set"/>
+    <title>The Ultimate S Serum Set</title>
+    <s:type>Set</s:type>
+    <s:vendor>Sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/JulyLTESets_Thumbnail_TUSSerumSet_2600x4000_4.jpg?v=1716920077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sulwhasoo<br>
+        <strong>Type: </strong>Set<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A limited edition set perfect for dry, tired looking skin. The Ultimate S Serum Set features a full size serum, other Ultimate S favorites, as well as our best-selling Gentle Cleansing Foam for complete hydrating, anti-aging care.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge::limited</s:tag>
+    <s:tag>badge::new</s:tag>
+    <s:tag>benefit::anti-aging</s:tag>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>fine lines &amp; wrinkles</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>limit::5</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>signs of aging</s:tag>
+    <s:tag>skin_benefit:: Hydrating</s:tag>
+    <s:tag>skin_benefit:: Nourishing</s:tag>
+    <s:tag>skin_type::All types</s:tag>
+    <s:tag>ults</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7928410472493</id>
+      <title>Default Title</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>270320731</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7764596654125</id>
+    <published>2024-04-01T00:24:14-04:00</published>
+    <updated>2024-04-01T00:24:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/my-first-sulwhasoo-set"/>
+    <title>My First Sulwhasoo Set</title>
+    <s:type>Set</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_Thumbnail_MDAY_1080x1080_270320655_MDAY_MyFirstSulwhasoo_Set_Packshot.jpg?v=1711404848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Set<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect introduction to Sulwhasoo, this limited edition set includes our cult-favorite First Care Activating Serum VI.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge::limited</s:tag>
+    <s:tag>badge::new</s:tag>
+    <s:tag>best seller</s:tag>
+    <s:tag>collection::first_care</s:tag>
+    <s:tag>dryness</s:tag>
+    <s:tag>first care</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>limit::5</s:tag>
+    <s:tag>mask</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>under 100</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7764596654125</id>
+      <title>Default Title</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>270320655</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7764599865389</id>
+    <published>2024-04-01T00:24:07-04:00</published>
+    <updated>2024-04-01T00:24:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/concentrated-ginseng-renewing-eye-cream-set"/>
+    <title>Concentrated Ginseng Renewing Eye Cream Set</title>
+    <s:type>Set</s:type>
+    <s:vendor>Sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_Thumbnail_MDAY_1080x1080_270320695_MDAY_CGR_Eye_Cream_Set_Packshot.jpg?v=1711405422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sulwhasoo<br>
+        <strong>Type: </strong>Set<br>
+        <strong>Price: </strong>
+            145.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-style="padding-left: 30px;">
+<p>An exclusive Concentrated Ginseng Renewing ritual set featuring Sulwhasoo's full-size Concentrated Ginseng Renewing Eye Cream.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge::limited</s:tag>
+    <s:tag>badge::new</s:tag>
+    <s:tag>collection::concentrated_ginseng</s:tag>
+    <s:tag>concentrated ginseng</s:tag>
+    <s:tag>Eye</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>limit::5</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>YGroup_CGREyeSet</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7764599865389</id>
+      <title>Default Title</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>270320695</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7764600389677</id>
+    <published>2024-04-01T00:24:05-04:00</published>
+    <updated>2024-04-01T00:24:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/the-ultimate-s-heritage-set"/>
+    <title>The Ultimate S Heritage Set</title>
+    <s:type>Set</s:type>
+    <s:vendor>Sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_Thumbnail_MDAY_1080x1080_270320696_MDAY_TUS_Set_Packshot.jpg?v=1711404577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sulwhasoo<br>
+        <strong>Type: </strong>Set<br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A limited edition gift set from The Ultimate S collection featuring Sulwhasoo's full-size The Ultimate S Cream and exclusive pouch.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge::limited</s:tag>
+    <s:tag>badge::new</s:tag>
+    <s:tag>benefit::anti-aging</s:tag>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>fine lines &amp; wrinkles</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>limit::5</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>signs of aging</s:tag>
+    <s:tag>skin_benefit:: Hydrating</s:tag>
+    <s:tag>skin_benefit:: Nourishing</s:tag>
+    <s:tag>skin_type::All types</s:tag>
+    <s:tag>ults</s:tag>
+    <s:tag>YGroup_TUSHeritage</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7764600389677</id>
+      <title>Default Title</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku>270320696</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7532388941869</id>
+    <published>2023-10-01T00:17:26-04:00</published>
+    <updated>2023-10-01T00:17:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/first-care-activating-serum-vi-mask"/>
+    <title>First Care Activating Mask</title>
+    <s:type>Mask</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_FCAM_Thumbnail_1080x1080_Packshot_Box.jpg?v=1694614983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Mask<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Each sheet mask is infused with approximately 3-weeks worth of the iconic First Care Activating Serum VI and provides a concentrated surge of hydration and helps improve the skin barrier for a visibly healthy and youthful skin.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best seller</s:tag>
+    <s:tag>bundle:self-care-duo</s:tag>
+    <s:tag>dryness</s:tag>
+    <s:tag>first care</s:tag>
+    <s:tag>mask</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>signs of aging</s:tag>
+    <s:tag>under 100</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7532388941869</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>270320644</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7495695892525</id>
+    <published>2023-09-01T09:14:47-04:00</published>
+    <updated>2023-09-01T09:14:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/first-care-trial-set"/>
+    <title>First Care Trial Set</title>
+    <s:type>Set</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_Thumbnail_FirstCareTrialSet_1080x1080_Packshot.jpg?v=1690480293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Set<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A daily essential collection featuring Sulwhasoo's best-selling skin heroes, including the cult-favorite First Care Activating Serum VI.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge::limited</s:tag>
+    <s:tag>badge::new</s:tag>
+    <s:tag>best seller</s:tag>
+    <s:tag>collection::first_care</s:tag>
+    <s:tag>dryness</s:tag>
+    <s:tag>first care</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>limit::5</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>under 100</s:tag>
+    <s:tag>YGroup_BestsellersTrialKit</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7495695892525</id>
+      <title>Default Title</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>270320643</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7484697083949</id>
+    <published>2023-09-01T09:12:32-04:00</published>
+    <updated>2023-09-01T09:12:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/ultimate-s-cream-mini-refill"/>
+    <title>The Ultimate S Cream Mini Refill</title>
+    <s:type>Cream</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_Thumbnail_Ultimate_S_Cream_1080x1080_30ml_Refill_2c10f824-48a9-48fb-9332-364d11e6da3d.jpg?v=1689089408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Cream<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This prestigious anti-aging cream, in a beautiful white packaging inspired by the Korean moon jar, is formulated with Ginseng Berry SR™ to help recapture skin's youth by helping initiate skin's visible transformation and address visible signs of aging.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>benefit::anti-aging</s:tag>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>fine lines &amp; wrinkles</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>signs of aging</s:tag>
+    <s:tag>skin_benefit:: Hydrating</s:tag>
+    <s:tag>skin_benefit:: Nourishing</s:tag>
+    <s:tag>skin_type::All types</s:tag>
+    <s:tag>ults</s:tag>
+    <s:tag>YGroup_UltS</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7484697083949</id>
+      <title>Default Title</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku>270320596</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7484696985645</id>
+    <published>2023-09-01T09:12:28-04:00</published>
+    <updated>2023-09-01T09:12:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/ultimate-s-cream-mini"/>
+    <title>The Ultimate S Cream Mini</title>
+    <s:type>Cream</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_Thumbnail_Ultimate_S_Cream_1080x1080_30ml.jpg?v=1689089331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Cream<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This prestigious anti-aging cream, in a beautiful white packaging inspired by the Korean moon jar, is formulated with Ginseng Berry SR™ to help recapture skin's youth by helping initiate skin's visible transformation and address visible signs of aging.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>benefit::anti-aging</s:tag>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>fine lines &amp; wrinkles</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>limit::5</s:tag>
+    <s:tag>signs of aging</s:tag>
+    <s:tag>skin_benefit:: Hydrating</s:tag>
+    <s:tag>skin_benefit:: Nourishing</s:tag>
+    <s:tag>skin_type::All types</s:tag>
+    <s:tag>ults</s:tag>
+    <s:tag>YGroup_UltS</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7484696985645</id>
+      <title>Default Title</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>270320594</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7463820558381</id>
+    <published>2023-09-01T09:08:54-04:00</published>
+    <updated>2023-09-01T09:08:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/essential-comfort-firming-cream-mini"/>
+    <title>Essential Comfort Firming Cream Mini</title>
+    <s:type>Cream</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/products/SWS_Thumbnail_EC_FirmingCream_1080x1080_15ml.jpg?v=1689087003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Cream<br>
+        <strong>Price: </strong>
+            28.00 - 90.00
+            <a href="https://us.sulwhasoo.com/products/essential-comfort-firming-cream-mini">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span>A hypoallergenic, whipped moisturizing cream that visibly improves skin firmness and </span><span data-mce-fragment="1">the look of elasticity for a supple, bouncy complexion.</span><span></span></p>
+<p> </p>
+<p>✓ Allergy Tested</p>
+<p>✓Dermatologist Tested</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>benefit::moisturizing</s:tag>
+    <s:tag>bundle:self-care-duo</s:tag>
+    <s:tag>collection::essential_comfort</s:tag>
+    <s:tag>dryness</s:tag>
+    <s:tag>essential</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>mini</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>skin_benefit:: Hypoallergenic</s:tag>
+    <s:tag>skin_type::all_types</s:tag>
+    <s:tag>skin_type::Dry</s:tag>
+    <s:tag>YGroup_EFC</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7463820558381</id>
+      <title>15mL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>270320586</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7463820558381</id>
+      <title>50mL</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>270320585</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7464621899821</id>
+    <published>2023-09-01T09:02:33-04:00</published>
+    <updated>2023-09-01T09:02:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/first-care-activating-serum-mini"/>
+    <title>First Care Activating Serum VI Mini</title>
+    <s:type>Serum</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_Thumbnail_FCAS_VI_1080x1080_15ml.jpg?v=1689087718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Serum<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>Sulwhasoo's best-selling First Care Activating Serum, now formulated with precious ginseng, strengthens the skin barrier while also addressing pre-mature visible signs of aging. Designed to be your first step post-cleanse, our innovative formula helps strengthen skin barrier weakened after cleansing while helping aid the absorption of the products that follow.</p>
+<p><a href="https://us.sulwhasoo.com/pages/first-care-activating-serum" data-mce-href="https://us.sulwhasoo.com/pages/first-care-activating-serum">Discover More About First Care Activating Serum VI</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>benefit::radiance</s:tag>
+    <s:tag>bundle:best-sellers-duo</s:tag>
+    <s:tag>bundle:radiance-duo</s:tag>
+    <s:tag>bundle:test-dynamic-bundle</s:tag>
+    <s:tag>collection::essential_comfort</s:tag>
+    <s:tag>collection::first_care</s:tag>
+    <s:tag>dryness</s:tag>
+    <s:tag>essential</s:tag>
+    <s:tag>first care</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Recharge</s:tag>
+    <s:tag>serum</s:tag>
+    <s:tag>signs of aging</s:tag>
+    <s:tag>skin_type::all_types</s:tag>
+    <s:tag>under 100</s:tag>
+    <s:tag>YGroup_FCAS</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7464621899821</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>270320588</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7463765311533</id>
+    <published>2023-08-11T11:58:30-04:00</published>
+    <updated>2023-08-11T11:58:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/gentle-cleansing-foam-mini"/>
+    <title>Gentle Cleansing Foam Mini</title>
+    <s:type>Cleansing</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_Thumbnail_GCF_1080x1080_50ml.jpg?v=1689087894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Cleansing<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">A daily gel-to-foam cleanser formulated to deep cleanse without stripping skin. The cushiony lather pulls dirt, grime and impurities from pores while softening skin. The multitasking formula can be used as part of a double cleansing routine or alone for visibly glowing skin.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>benefit::cleansing</s:tag>
+    <s:tag>benefit::moisturizing</s:tag>
+    <s:tag>cleansing</s:tag>
+    <s:tag>collection::gentle_cleansing</s:tag>
+    <s:tag>dirt &amp; impurities</s:tag>
+    <s:tag>dryness</s:tag>
+    <s:tag>mini</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>skin_benefit:: Hypoallergenic</s:tag>
+    <s:tag>skin_type::all_types</s:tag>
+    <s:tag>YGroup_Foam</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7463765311533</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>270320579</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7463820001325</id>
+    <published>2023-07-11T17:23:26-04:00</published>
+    <updated>2023-07-11T17:23:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/gentle-cleansing-oil-mini"/>
+    <title>Gentle Cleansing Oil Mini</title>
+    <s:type>Cleansing</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_AZ_SE_Thumbnail_GCO_2000x2000_50ml.jpg?v=1688664719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Cleansing<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Infused with a Korean Herbal Oil Complex, this powerful oil cleanser cleanses skin of pore clogging impurities without leaving any residue. With a unique, lightweight texture that transforms upon contact with water, it melts away sunscreen, waterproof makeup, and sebum.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>benefit::cleansing</s:tag>
+    <s:tag>benefit::moisturizing</s:tag>
+    <s:tag>cleansing</s:tag>
+    <s:tag>collection::gentle_cleansing</s:tag>
+    <s:tag>dirt &amp; impurities</s:tag>
+    <s:tag>dryness</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>mini</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>skin_benefit:: Makeup Removal</s:tag>
+    <s:tag>skin_type::all_types</s:tag>
+    <s:tag>YGroup_Oil</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7463820001325</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku>270320581</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7470562148397</id>
+    <published>2023-06-21T12:51:42-04:00</published>
+    <updated>2023-06-21T12:51:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/concentrated-ginseng-brightening-serum-mini"/>
+    <title>Concentrated Ginseng Brightening Serum Mini</title>
+    <s:type>Serum</s:type>
+    <s:vendor>Sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_Packshot_CGBS-30ml_2022_01_1080x1080_7ee85335-1b7c-492a-b66b-d7b5bc2c0dfc.png?v=1687366128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sulwhasoo<br>
+        <strong>Type: </strong>Serum<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A targeted serum that improves skin brightness, tone. and radiance.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anti-aging</s:tag>
+    <s:tag>benefit::even_skin_tone</s:tag>
+    <s:tag>benefit::radiance</s:tag>
+    <s:tag>collection::concentrated_ginseng</s:tag>
+    <s:tag>concentrated ginseng</s:tag>
+    <s:tag>dullness</s:tag>
+    <s:tag>fine lines &amp; wrinkles</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>serum</s:tag>
+    <s:tag>skin_type::all_types</s:tag>
+    <s:tag>YGroup_CGRB</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7470562148397</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>270320572</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7429874155565</id>
+    <published>2023-02-22T16:37:27-05:00</published>
+    <updated>2023-02-22T16:37:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/concentrated-ginseng-renewing-cream-classic-mni"/>
+    <title>Concentrated Ginseng Renewing Cream Classic Mini</title>
+    <s:type>Cream</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/products/CGRCC_fb4380f1-df07-4927-98c9-37c73d1aaaed.jpg?v=1677101672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Cream<br>
+        <strong>Price: </strong>
+            145.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong></strong><span>Our signature cream is </span><span>newly formulated with a richer texture that </span><span>addresses multiple visible signs of aging and rejuvenates complexion. Its </span><span>emollient</span><span>-rich, deeply hydrating texture envelops skin with nourishment and a subtle scent of ginseng. Now, in a mini size. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anti-aging</s:tag>
+    <s:tag>benefit::anti-aging</s:tag>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>benefit::moisturizing</s:tag>
+    <s:tag>collection::concentrated_ginseng</s:tag>
+    <s:tag>concentrated ginseng</s:tag>
+    <s:tag>cream</s:tag>
+    <s:tag>dryness</s:tag>
+    <s:tag>fine lines &amp; wrinkles</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>mini</s:tag>
+    <s:tag>skin_type::Dry</s:tag>
+    <s:tag>YGroup_CGRC</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7429874155565</id>
+      <title>Default Title</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>270320533</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7167492784173</id>
+    <published>2022-09-01T00:09:35-04:00</published>
+    <updated>2022-09-01T00:09:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/concentrated-ginseng-renewing-serum-mini"/>
+    <title>Concentrated Ginseng Renewing Serum Mini</title>
+    <s:type>Serum</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/products/CGRS-Mini.jpg?v=1662670956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Serum<br>
+        <strong>Price: </strong>
+            65.00 - 125.00
+            <a href="https://us.sulwhasoo.com/products/concentrated-ginseng-renewing-serum-mini">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">A nourishing serum formulated with our capsule technology that melts into skin on contact to help improve the look of wrinkles and firmness, and boost skin resilience. It features our two proprietary anti-aging ingredients: Ginsenomics™ and Ginseng Retinol™ to improve visible signs of aging in just 7 days.*</p>
+<p><em>*Based on an 8-week clinical study on 32 women ages 38-49.</em><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anti-aging</s:tag>
+    <s:tag>benefit::anti-aging</s:tag>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>benefit::moisturizing</s:tag>
+    <s:tag>best seller</s:tag>
+    <s:tag>collection::concentrated_ginseng</s:tag>
+    <s:tag>concentrated ginseng</s:tag>
+    <s:tag>fine lines &amp; wrinkles</s:tag>
+    <s:tag>mini</s:tag>
+    <s:tag>serum</s:tag>
+    <s:tag>skin_type::all_types</s:tag>
+    <s:tag>YGroup_CGRS</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7167492784173</id>
+      <title>15mL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>270320556</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7167492784173</id>
+      <title>30mL</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>270320555</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/6956270977069</id>
+    <published>2022-04-29T16:43:49-04:00</published>
+    <updated>2022-04-29T16:43:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/concentrated-ginseng-renewing-cream-soft-mini"/>
+    <title>Concentrated Ginseng Renewing Cream Mini</title>
+    <s:type>Cream</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/products/CGRC-mini.jpg?v=1662670805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Cream<br>
+        <strong>Price: </strong>
+            52.00 - 145.00
+            <a href="https://us.sulwhasoo.com/products/concentrated-ginseng-renewing-cream-soft-mini">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A powerful anti-aging cream is infused with <span>Ginseng Peptide™</span> to help address signs of visible aging. This silky-soft formula glides over skin and improves the look of wrinkles and firmness in just 4 weeks* while helping minimize future signs of visible aging.</p>
+<p><em>*Based on a 8 week clinical study on 31 women ages 37 to 59.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anti-aging</s:tag>
+    <s:tag>benefit::anti-aging</s:tag>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>benefit::moisturizing</s:tag>
+    <s:tag>collection::concentrated_ginseng</s:tag>
+    <s:tag>concentrated ginseng</s:tag>
+    <s:tag>cream</s:tag>
+    <s:tag>fine lines &amp; wrinkles</s:tag>
+    <s:tag>mini</s:tag>
+    <s:tag>skin_type::All types</s:tag>
+    <s:tag>YGroup_CGRC</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/6956270977069</id>
+      <title>10mL</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>270320540</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/6956270977069</id>
+      <title>30mL</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>270320535</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://us.sulwhasoo.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://us.sulwhasoo.com/collections/timetreasure.atom"/>
+  <title>Sulwhasoo</title>
+  <author>
+    <name>Sulwhasoo</name>
+  </author>
+</feed>

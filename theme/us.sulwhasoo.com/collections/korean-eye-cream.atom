@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://us.sulwhasoo.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://us.sulwhasoo.com/collections/korean-eye-cream.atom"/>
+  <title>Sulwhasoo</title>
+  <updated>2023-09-01T09:12:44-04:00</updated>
+  <author>
+    <name>Sulwhasoo</name>
+  </author>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7484697346093</id>
+    <published>2023-09-01T09:12:44-04:00</published>
+    <updated>2023-09-01T09:12:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/ultimate-s-eye-cream"/>
+    <title>The Ultimate S Eye Cream</title>
+    <s:type>Eye</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_Thumbnail_Ultimate_S_Eye_Cream_1080x1080_20ml.jpg?v=1689089613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Eye<br>
+        <strong>Price: </strong>
+            270.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A rich eye cream formulated with  Ginseng Berry SR™ defines the eye area and improves the appearance of deep set eye wrinkles. The innovative mesh-like texture creates a smooth surface and is made to work especially well under makeup.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>benefit::anti-aging</s:tag>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>fine lines &amp; wrinkles</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>limit::5</s:tag>
+    <s:tag>signs of aging</s:tag>
+    <s:tag>skin_benefit:: Hydrating</s:tag>
+    <s:tag>skin_benefit:: Nourishing</s:tag>
+    <s:tag>skin_type::All types</s:tag>
+    <s:tag>ults</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7484697346093</id>
+      <title>Default Title</title>
+      <s:price currency="USD">270.00</s:price>
+      <s:sku>270320577</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7167523782701</id>
+    <published>2022-09-01T00:09:18-04:00</published>
+    <updated>2022-09-01T00:09:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/concentrated-ginseng-renewing-eye-cream"/>
+    <title>Concentrated Ginseng Renewing Eye Cream</title>
+    <s:type>Eye</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/products/HQ_SWS_CGREC_Product_02.jpg?v=1661287573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Eye<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p style="text-align: left;">From dryness and dullness to visible fine lines and wrinkles, this rich eye cream will help minimize visible signs of aging on your eye area. It features our two proprietary anti-aging ingredients: Ginsenomics™and Ginseng Retinol™ to improve visible signs of aging after just 4 weeks of use.* Each eye cream comes with a metal tip applicator for optimal formula application.</p>
+<p style="text-align: left;"><em>*Based on a 8-week clinical study on 31 women ages 30-69.</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anti-aging</s:tag>
+    <s:tag>benefit::anti-aging</s:tag>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>benefit::moisturizing</s:tag>
+    <s:tag>collection::concentrated_ginseng</s:tag>
+    <s:tag>concentrated ginseng</s:tag>
+    <s:tag>eye cream</s:tag>
+    <s:tag>fine lines &amp; wrinkles</s:tag>
+    <s:tag>skin_type::all_types</s:tag>
+    <s:tag>under 200</s:tag>
+    <s:tag>YGroup_CGREye</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7167523782701</id>
+      <title>Default Title</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>270320557</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>

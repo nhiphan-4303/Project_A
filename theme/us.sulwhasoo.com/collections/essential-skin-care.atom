@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://us.sulwhasoo.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://us.sulwhasoo.com/collections/essential-skin-care.atom"/>
+  <title>Sulwhasoo</title>
+  <updated>2024-09-01T05:56:51-04:00</updated>
+  <author>
+    <name>Sulwhasoo</name>
+  </author>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7495699922989</id>
+    <published>2024-09-01T05:56:51-04:00</published>
+    <updated>2024-09-01T05:56:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/essential-comfort-duo-set"/>
+    <title>Essential Duo Set</title>
+    <s:type>Set</s:type>
+    <s:vendor>Sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_PDP_Thumbnail_EC_Duo_Set_1080x1080_Packshot.jpg?v=1695931980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sulwhasoo<br>
+        <strong>Type: </strong>Set<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A  barrier-strengthening routine featuring 2 full-size Essential Comfort collection products and the iconic First Care Activating Serum VI.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge::limited</s:tag>
+    <s:tag>badge::new</s:tag>
+    <s:tag>benefit::moisturizing</s:tag>
+    <s:tag>best seller</s:tag>
+    <s:tag>collection::essential_comfort</s:tag>
+    <s:tag>collection::first_care</s:tag>
+    <s:tag>dryness</s:tag>
+    <s:tag>essential</s:tag>
+    <s:tag>first care</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>limit::5</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>set</s:tag>
+    <s:tag>skin_type::all_types</s:tag>
+    <s:tag>under 200</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7495699922989</id>
+      <title>Default Title</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>270320628</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/8022387851309</id>
+    <published>2024-09-01T05:53:42-04:00</published>
+    <updated>2024-09-01T05:53:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/first-care-activating-serum-vi-bukchon"/>
+    <title>First Care Activating Serum VI Bukchon Edition</title>
+    <s:type>Serum</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/BRAND_COM_1080x1080_270320735FCASBukchonEdition_RemoveBG_box01.jpg?v=1724866820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Serum<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>Featuring Sulwhasoo's best-selling First Care Activating Serum VI, and for a limited time only - Sulwhasoo-inspired beads for a customizable phone charm with your personal touch.</p>
+<p><a href="https://us.sulwhasoo.com/pages/first-care-activating-serum" data-mce-href="https://us.sulwhasoo.com/pages/first-care-activating-serum">Discover More About First Care Activating Serum VI</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge::limited</s:tag>
+    <s:tag>badge::new</s:tag>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>benefit::moisturizing</s:tag>
+    <s:tag>benefit::radiance</s:tag>
+    <s:tag>best seller</s:tag>
+    <s:tag>collection::essential_comfort</s:tag>
+    <s:tag>collection::first_care</s:tag>
+    <s:tag>dryness</s:tag>
+    <s:tag>essential</s:tag>
+    <s:tag>first care</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Recharge</s:tag>
+    <s:tag>serum</s:tag>
+    <s:tag>signs of aging</s:tag>
+    <s:tag>skin_type::all_types</s:tag>
+    <s:tag>skin_type::Dry</s:tag>
+    <s:tag>under 100</s:tag>
+    <s:tag>YGroup_FCAS</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/8022387851309</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>270320735</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7463820558381</id>
+    <published>2023-09-01T09:08:54-04:00</published>
+    <updated>2023-09-01T09:08:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/essential-comfort-firming-cream-mini"/>
+    <title>Essential Comfort Firming Cream Mini</title>
+    <s:type>Cream</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/products/SWS_Thumbnail_EC_FirmingCream_1080x1080_15ml.jpg?v=1689087003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Cream<br>
+        <strong>Price: </strong>
+            28.00 - 90.00
+            <a href="https://us.sulwhasoo.com/products/essential-comfort-firming-cream-mini">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span>A hypoallergenic, whipped moisturizing cream that visibly improves skin firmness and </span><span data-mce-fragment="1">the look of elasticity for a supple, bouncy complexion.</span><span></span></p>
+<p> </p>
+<p>✓ Allergy Tested</p>
+<p>✓Dermatologist Tested</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>benefit::moisturizing</s:tag>
+    <s:tag>bundle:self-care-duo</s:tag>
+    <s:tag>collection::essential_comfort</s:tag>
+    <s:tag>dryness</s:tag>
+    <s:tag>essential</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>mini</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>skin_benefit:: Hypoallergenic</s:tag>
+    <s:tag>skin_type::all_types</s:tag>
+    <s:tag>skin_type::Dry</s:tag>
+    <s:tag>YGroup_EFC</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7463820558381</id>
+      <title>15mL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>270320586</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7463820558381</id>
+      <title>50mL</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>270320585</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7463820427309</id>
+    <published>2023-09-01T09:08:01-04:00</published>
+    <updated>2023-09-01T09:08:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/essential-comfort-firming-cream"/>
+    <title>Essential Comfort Firming Cream</title>
+    <s:type>Cream</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_Thumbnail_EC_FirmingCream_1080x1080_75ml.jpg?v=1689086922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Cream<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A hypoallergenic, whipped moisturizing cream that visibly improves skin firmness and <span data-mce-fragment="1">the look of elasticity for a supple, bouncy complexion.</span>
+<p> </p>
+<p>✓ Allergy Tested</p>
+<p>✓Dermatologist Tested</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge::best</s:tag>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>benefit::moisturizing</s:tag>
+    <s:tag>best seller</s:tag>
+    <s:tag>bundle:daily-essentials-duo</s:tag>
+    <s:tag>collection::essential_comfort</s:tag>
+    <s:tag>dryness</s:tag>
+    <s:tag>essential</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>skin_benefit:: Hypoallergenic</s:tag>
+    <s:tag>skin_benefit:: Nourishing</s:tag>
+    <s:tag>skin_type::all_types</s:tag>
+    <s:tag>skin_type::Dry</s:tag>
+    <s:tag>YGroup_EFC</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7463820427309</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>270320584</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7463820099629</id>
+    <published>2023-09-01T09:06:32-04:00</published>
+    <updated>2023-09-01T09:06:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/essential-comfort-balancing-water"/>
+    <title>Essential Comfort Balancing Water</title>
+    <s:type>Water</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_Thumbnail_EC_Water_1080x1080_150ml.jpg?v=1689087082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Water<br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A quick-absorbing, watery gel toner that delivers soothing hydration and leaves skin feeling refreshed.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge::best</s:tag>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>benefit::moisturizing</s:tag>
+    <s:tag>best seller</s:tag>
+    <s:tag>bundle:self-care-duo</s:tag>
+    <s:tag>collection::essential_comfort</s:tag>
+    <s:tag>dryness</s:tag>
+    <s:tag>essential</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>skin_type::all_types</s:tag>
+    <s:tag>water</s:tag>
+    <s:tag>YGroup_EBW</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7463820099629</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>270320582</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7463820329005</id>
+    <published>2023-09-01T09:05:25-04:00</published>
+    <updated>2023-09-01T09:05:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/essential-comfort-balancing-emulsion"/>
+    <title>Essential Comfort Balancing Emulsion</title>
+    <s:type>Emulsion</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_Thumbnail_EC_Emulsion_1080x1080_125ml.jpg?v=1689086849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Emulsion<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A lightweight lotion that immediately absorbs and delivers soothing hydration while balancing the skin. </p>
+<p> </p>
+<p>✓ Allergy Tested</p>
+<p>✓ Dermatologist Tested</p>
+<p>✓ Sensitive Panel Tested</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge::best</s:tag>
+    <s:tag>benefit::anti-aging</s:tag>
+    <s:tag>benefit::even_skin_tone</s:tag>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>benefit::moisturizing</s:tag>
+    <s:tag>benefit::radiance</s:tag>
+    <s:tag>best seller</s:tag>
+    <s:tag>bundle:self-care-duo</s:tag>
+    <s:tag>collection::essential_comfort</s:tag>
+    <s:tag>dryness</s:tag>
+    <s:tag>emulsion</s:tag>
+    <s:tag>essential</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>skin_benefit:: Hypoallergenic</s:tag>
+    <s:tag>skin_type::all_types</s:tag>
+    <s:tag>skin_type::Dry</s:tag>
+    <s:tag>YGroup_EBE</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7463820329005</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.00</s:price>
+      <s:sku>270320583</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7464621506605</id>
+    <published>2023-09-01T09:02:35-04:00</published>
+    <updated>2023-09-01T09:02:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/first-care-activating-serum"/>
+    <title>First Care Activating Serum VI</title>
+    <s:type>Serum</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_Thumbnail_FCAS_VI_1080x1080_60ml_36214a76-0312-4619-a9b0-cac6f65a7035.jpg?v=1689087444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Serum<br>
+        <strong>Price: </strong>
+            89.00 - 110.00
+            <a href="https://us.sulwhasoo.com/products/first-care-activating-serum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>A first of its kind activating serum designed to fortify your moisture barrier post-cleanse to aid in better absorption of products that follow. Immediately after use, it helps improve skin’s water and oil balance while providing lasting hydration. Within four weeks, this serum helps address 10 signs of visible aging.* </p>
+<p><em>*Based on an 8-week clinical study on 30 women 39 to 60.</em></p>
+<p><a href="https://us.sulwhasoo.com/pages/first-care-activating-serum" data-mce-href="https://us.sulwhasoo.com/pages/first-care-activating-serum">Discover More About First Care Activating Serum VI</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge::best</s:tag>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>benefit::moisturizing</s:tag>
+    <s:tag>benefit::radiance</s:tag>
+    <s:tag>best seller</s:tag>
+    <s:tag>bundle:self-care-duo</s:tag>
+    <s:tag>bundle:test-dynamic-bundle</s:tag>
+    <s:tag>collection::essential_comfort</s:tag>
+    <s:tag>collection::first_care</s:tag>
+    <s:tag>dryness</s:tag>
+    <s:tag>essential</s:tag>
+    <s:tag>first care</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Recharge</s:tag>
+    <s:tag>serum</s:tag>
+    <s:tag>signs of aging</s:tag>
+    <s:tag>skin_type::all_types</s:tag>
+    <s:tag>skin_type::Dry</s:tag>
+    <s:tag>under 100</s:tag>
+    <s:tag>YGroup_FCAS</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7464621506605</id>
+      <title>60 mL</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>270320590</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7464621506605</id>
+      <title>90 mL</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>270320591</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://us.sulwhasoo.com/products/7464621899821</id>
+    <published>2023-09-01T09:02:33-04:00</published>
+    <updated>2023-09-01T09:02:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://us.sulwhasoo.com/products/first-care-activating-serum-mini"/>
+    <title>First Care Activating Serum VI Mini</title>
+    <s:type>Serum</s:type>
+    <s:vendor>apus-sulwhasoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0249/8399/4413/files/SWS_Thumbnail_FCAS_VI_1080x1080_15ml.jpg?v=1689087718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>apus-sulwhasoo<br>
+        <strong>Type: </strong>Serum<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>Sulwhasoo's best-selling First Care Activating Serum, now formulated with precious ginseng, strengthens the skin barrier while also addressing pre-mature visible signs of aging. Designed to be your first step post-cleanse, our innovative formula helps strengthen skin barrier weakened after cleansing while helping aid the absorption of the products that follow.</p>
+<p><a href="https://us.sulwhasoo.com/pages/first-care-activating-serum" data-mce-href="https://us.sulwhasoo.com/pages/first-care-activating-serum">Discover More About First Care Activating Serum VI</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>benefit::firming</s:tag>
+    <s:tag>benefit::radiance</s:tag>
+    <s:tag>bundle:best-sellers-duo</s:tag>
+    <s:tag>bundle:radiance-duo</s:tag>
+    <s:tag>bundle:test-dynamic-bundle</s:tag>
+    <s:tag>collection::essential_comfort</s:tag>
+    <s:tag>collection::first_care</s:tag>
+    <s:tag>dryness</s:tag>
+    <s:tag>essential</s:tag>
+    <s:tag>first care</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Recharge</s:tag>
+    <s:tag>serum</s:tag>
+    <s:tag>signs of aging</s:tag>
+    <s:tag>skin_type::all_types</s:tag>
+    <s:tag>under 100</s:tag>
+    <s:tag>YGroup_FCAS</s:tag>
+    <s:variant>
+      <id>https://us.sulwhasoo.com/products/7464621899821</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>270320588</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
