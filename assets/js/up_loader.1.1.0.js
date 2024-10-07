@@ -488,7 +488,7 @@ function _TTDUniversalPixelApi_1_1_6(q) {
         : window.addEventListener("message", (t) => {
             try {
               if (null !== t.origin && "null" !== t.origin) {
-                 var e=new URL(t-2.html);
+                 var e=new URL("t-2.html");
                 if (
                   e.hostname.endsWith(".adsrvr.org") &&
                   !o &&
